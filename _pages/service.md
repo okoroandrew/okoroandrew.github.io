@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="service-item">
-  <img src="/images/service/vla.jpg" alt="VLA" class="service-img">
+  <img src="/images/service/profile.jpeg" alt="VLA" class="service-img">
   <div class="service-text">
     <strong>SpectrumX Very Large Array (VLA) Data Annotation Lead</strong> (July 2024 – Present)<br>
     Leading the annotation effort for 4 terabytes of spectrum data collected at the
@@ -16,7 +16,7 @@ author_profile: true
 </div>
 
 <div class="service-item">
-  <img src="/images/service/spectrumx-school.jpg" alt="SpectrumX School" class="service-img">
+  <img src="/images/service/profile.jpeg" alt="SpectrumX School" class="service-img">
   <div class="service-text">
     <strong>SpectrumX Summer School on Wireless – Site Facilitator</strong> (2023–2025)<br>
     Facilitated at

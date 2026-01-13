@@ -24,7 +24,7 @@ Building frameworks that enable simultaneous transmitter detection and spatial l
 ## Research Frameworks
 
 **SCAN: Sparse reCovery trAnsmitter detectioN**  
-An unsupervised framework that detects multiple overlapping transmitters in complex, noisy spectrum environments. SCAN reliably identifies up to ten concurrent transmitters and has been validated through extensive over-the-air experiments.
+An unsupervised framework that detects multiple overlapping transmitters in complex, noisy spectrum environments. SCAN reliably detects up to ten concurrent transmitters and has been validated through extensive over-the-air experiments.
 
 **M-SHarC: Multi-Spectral Harmonic Characterization**  
 A framework that identifies harmonic emissions across multiple frequency bands and reconciles them with their fundamental sources. M-SHarC addresses interference that threatens radio astronomy and scientific observations.

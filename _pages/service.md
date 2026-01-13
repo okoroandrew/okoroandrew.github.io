@@ -5,6 +5,32 @@ permalink: /service/
 author_profile: true
 ---
 
+<style>
+.service-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+  gap: 20px;
+}
+
+.service-img-wrapper {
+  flex-shrink: 0;
+  width: 150px;
+  height: 150px;
+}
+
+.service-img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.service-text {
+  flex: 1;
+}
+</style>
+
 <div class="service-item">
   <div class="service-img-wrapper">
     <img src="/images/service/profile.jpeg" alt="VLA">

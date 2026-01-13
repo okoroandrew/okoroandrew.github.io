@@ -55,7 +55,7 @@ author_profile: true
 
 <div class="service-item">
   <div class="service-img-wrapper">
-    <img src="/images/service/profile.jpeg" alt="MIT Haystack">
+    <img src="/images/service/mep.jpeg" alt="MIT Haystack">
   </div>
   <div class="service-text">
     <strong>Mobile Experiment Platform (MEP) Workshops</strong><br>

@@ -11,19 +11,19 @@ author_profile: true
 **Blessing Okoro**, Maxwell McNeil, Kavya Meka, Karyn Doke, Petko Bogdanov, Mariya Zheleva  
 *IEEE International Conference on Computer Communications (INFOCOM 2025)*  
 London, United Kingdom, May 2025  
-[Paper](files/SCAN__Sparse_reCovery_trAnsmitter_detectioN.pdf) 
+[Paper](/files/SCAN__Sparse_reCovery_trAnsmitter_detectioN.pdf) 
 
 **VIA: Establishing the Link Between Spectrum Sensor Capabilities and Data Analytics Performance**  
 Karyn Doke, **Blessing Okoro**, Amin Zare, Mariya Zheleva  
 *IEEE International Conference on Computer Communications (INFOCOM 2024)*  
 Vancouver, Canada, May 2024  
-[Paper](files/VIA_Establishing_the_link_between_spectrum_sensor_capabilities_and_data_analytics_performance.pdf)
+[Paper](/files/VIA_Establishing_the_link_between_spectrum_sensor_capabilities_and_data_analytics_performance.pdf)
 
 **RadVIEW: Robust Radar Detection and Characterization in High-Noise Regimes**  
 Karyn Doke, Shamik Sarkar, **Blessing Okoro**, Danijela Cabric, Mariya Zheleva  
 *IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN 2024)*  
 Washington, DC, May 2024  
-[Paper](files/RadVIEW_Robust_radar_detection_and_characterization_in_high-noise_regimes.pdf)
+[Paper](/files/RadVIEW_Robust_radar_detection_and_characterization_in_high-noise_regimes.pdf)
 
 ---
 

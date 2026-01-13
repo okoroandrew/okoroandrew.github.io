@@ -38,7 +38,7 @@ author_profile: true
   <div class="service-text">
     <strong>SpectrumX Very Large Array (VLA) Data Annotation</strong><br>
     <em>Oct 2025 – Dec 2025</em><br>
-    Leading the annotation of 4 TB of spectrum data from the <a href="https://public.nrao.edu/telescopes/vla/">VLA in New Mexico</a> through the <a href="https://spectrumx.org/">SpectrumX</a> AI/ML working group to label transmitter signatures and ambient noise, with the dataset made publicly available via SpectrumX and used for the <a href="https://www.spectrumx.org/project/student-data-and-algorithm-competition/">student data and algorithm competition</a>.
+    Leading the annotation of 4 TB of spectrum data from the <a href="https://public.nrao.edu/telescopes/vla/">VLA in New Mexico</a> through the <a href="https://spectrumx.org/">SpectrumX</a> AI/ML working group, with the dataset made publicly available and used for the <a href="https://www.spectrumx.org/project/student-data-and-algorithm-competition/">student data and algorithm competition</a>.
   </div>
 </div>
 
@@ -58,7 +58,7 @@ author_profile: true
     <img src="/images/service/profile.jpeg" alt="MIT Haystack">
   </div>
   <div class="service-text">
-    <strong>MIT Haystack Observatory – Mobile Experiment Platform (MEP) Workshops</strong><br>
+    <strong>Mobile Experiment Platform (MEP) Workshops</strong><br>
     <em>Nov 2024, Jun 2025</em><br>
     Participated in <a href="https://www.spectrumx.org/news/spectrumx-develops-mobile-experiment-platforms-meps-to-support-remote-rf-data-collection/">MEP</a> hardware assembly (November 2024) and software testing workshops (April 2025) at <a href="https://www.haystack.mit.edu/">MIT Haystack Observatory</a> in Westford, MA. Helped build portable spectrum sensing systems used in the July 2025 VLA field experiment.
   </div>
@@ -71,6 +71,6 @@ author_profile: true
   <div class="service-text">
     <strong>SpectrumX Center Meeting Presentations</strong><br>
     <em>2023 – 2025</em><br>
-    Regular poster presentations at <a href="https://spectrumx.org/events/">SpectrumX Center Meetings</a> (Fall 2025: UW-Madison; Spring 2025: virtual; Spring 2024: Washington, DC). Presented research findings to federal agencies (NTIA, FCC), academic researchers, and industry practitioners.
+    Poster presentations at <a href="https://spectrumx.org/events/">SpectrumX Center Meetings</a> (Fall 2025: UW-Madison; Spring 2025: virtual; Spring 2024: Washington, DC). Presented research findings to federal agencies (NTIA, FCC), academic researchers, and industry practitioners.
   </div>
 </div>

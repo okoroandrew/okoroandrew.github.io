@@ -44,7 +44,7 @@ author_profile: true
 
 <div class="service-item">
   <div class="service-img-wrapper">
-    <img src="/images/service/profile.jpeg" alt="SpectrumX Summer School">
+    <img src="/images/service/ssc1.jpeg" alt="SpectrumX Summer School">
   </div>
   <div class="service-text">
     <strong><a href="https://www.spectrumx.org/event/spectrumx-summer-school/">SpectrumX Summer School</a> on Wireless – Site Facilitator</strong><br>

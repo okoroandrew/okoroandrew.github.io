@@ -1,0 +1,16 @@
+.service-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+}
+
+.service-img {
+  width: 120px;
+  height: auto;
+  margin-right: 1em;
+  border-radius: 6px;
+}
+
+.service-text {
+  flex: 1;
+}

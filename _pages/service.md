@@ -66,7 +66,7 @@ author_profile: true
 
 <div class="service-item">
   <div class="service-img-wrapper">
-    <img src="/images/service/profile.jpeg" alt="SpectrumX Poster">
+    <img src="/images/service/caM.jpg" alt="SpectrumX Poster">
   </div>
   <div class="service-text">
     <strong>SpectrumX Center Meeting Presentations</strong><br>

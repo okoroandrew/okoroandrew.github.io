@@ -33,7 +33,7 @@ author_profile: true
 
 <div class="service-item">
   <div class="service-img-wrapper">
-    <img src="/images/service/profile.jpeg" alt="VLA">
+    <img src="/images/service/da.jpg" alt="VLA">
   </div>
   <div class="service-text">
     <strong>SpectrumX Very Large Array (VLA) Data Annotation</strong><br>

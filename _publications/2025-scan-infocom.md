@@ -1,20 +1,37 @@
+## Publications
+
+### Conference Papers
+
+**2025**
+
+**SCAN: Sparse reCovery trAnsmitter detectioN**  
+**Blessing Okoro**, Maxwell McNeil, Kavya Meka, Karyn Doke, Petko Bogdanov, Mariya Zheleva  
+*IEEE International Conference on Computer Communications (INFOCOM 2025)*  
+London, United Kingdom, May 2025  
+[Paper](#) | [Slides](#) | [Code](#)
+
+**2024**
+
+**RadVIEW: Robust Radar Detection and Characterization in High-Noise Regimes**  
+Karyn Doke, Shamik Sarkar, **Blessing Okoro**, Danijela Cabric, Mariya Zheleva  
+*IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN 2024)*  
+Washington, DC, May 2024  
+[Paper](#) | [Slides](#)
+
+**VIA: Establishing the Link Between Spectrum Sensor Capabilities and Data Analytics Performance**  
+Karyn Doke, **Blessing Okoro**, Amin Zare, Mariya Zheleva  
+*IEEE International Conference on Computer Communications (INFOCOM 2024)*  
+Vancouver, Canada, May 2024  
+[Paper](#) | [Code](#)
+
 ---
-title: "SCAN: Sparse reCovery trAnsmitter detectioN"
-collection: publications
-permalink: /publication/2025-scan-infocom
-excerpt: 'This paper develops an unsupervised machine learning framework that detects multiple overlapping transmitters in complex spectrum environments.'
-date: 2025-05-01
-venue: 'IEEE INFOCOM 2025'
-paperurl: 'http://okoroandrew.github.io/files/scan-infocom2025.pdf'
-citation: 'Okoro, B., McNeil, M., Meka, K., Doke, K., Bogdanov, P., & Zheleva, M. (2025). SCAN: Sparse reCovery trAnsmitter detectioN. <i>IEEE INFOCOM 2025</i>.'
----
 
-Presented at IEEE INFOCOM 2025 in London, UK.
+### Under Review
 
-[Download paper here](http://yourname.github.io/files/scan-infocom2025.pdf)
+**M-SHarC: Multi-Spectral Harmonic Characterization**  
+**Blessing Okoro**, Vaasu Taneja, Clark Mattoon, Xin Li, Mariya Zheleva  
+*Under review at IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN 2026)*
 
-[Slides](http://yourname.github.io/files/scan-slides.pdf)
-
-[Code](https://github.com/yourusername/scan)
-```
-
+**MDL: Multi-node Detection and Localization**  
+**Blessing Okoro**, Petko Bogdanov, Mariya Zheleva  
+*Under review at IEEE International Conference on Communications (ICC 2026)*

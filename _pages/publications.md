@@ -32,7 +32,7 @@ Washington, DC, May 2024
 **M-SHarC: Multi-Spectral Harmonic Characterization**  
 **Blessing Okoro**, Vaasu Taneja, Clark Mattoon, Xin Li, Mariya Zheleva  
 *Submitted to IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN 2026)*
-[Preprint](/files/MSHarC.pdf)
+[Preprint](/files/M-SHarC.pdf)
 
 **MDL: Multi-node Detection and Localization**  
 **Blessing Okoro**, Petko Bogdanov, Mariya Zheleva  
